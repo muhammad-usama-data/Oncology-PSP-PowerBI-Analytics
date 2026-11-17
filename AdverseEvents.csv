@@ -1,0 +1,21 @@
+AEID,PatientID,EventDate,EventTerm,Seriousness,Outcome,PVReportingStatus,PVReportDate
+AE001,P035,2025-01-07,Diarrhoea,Non-serious,Recovered,Reported,2025-01-16
+AE002,P086,2025-04-20,Pneumonitis,Serious,Unknown,Under Review,
+AE003,P095,2025-05-12,Nausea,Non-serious,Not recovered,Reported,2025-05-21
+AE004,P089,2025-07-26,Peripheral neuropathy,Non-serious,Recovered,Pending,
+AE005,P055,2025-08-23,Nausea,Non-serious,Unknown,Pending,
+AE006,P021,2025-09-05,Infusion-related reaction,Non-serious,Recovered,Reported,2025-09-06
+AE007,P084,2025-10-15,Fatigue,Non-serious,Recovered,Pending,
+AE008,P026,2025-10-30,Peripheral neuropathy,Non-serious,Recovering,Pending,
+AE009,P092,2026-01-04,Fatigue,,Recovered,Reported,2026-01-07
+AE010,P026,2026-01-20,Diarrhoea,Non-serious,Recovered,Reported,2026-02-02
+AE011,P023,2026-02-02,RASH,Non-serious,Recovered,Reported,2026-02-12
+AE012,P083,2026-04-03,Nausea,Non-serious,Recovered,Reported,2026-04-04
+AE013,P023,2026-04-27,Fatigue,Non-serious,Recovering,Under Review,
+AE014,P094,2026-07-12,Fatigue,Non-serious,Not recovered,Reported,2026-07-25
+AE015,P041,2026-07-27,Neutropenia,Serious,Recovering,Pending,
+AE016,P004,2026-08-09,Nausea,Non-serious,Recovered,Reported,2026-08-12
+AE017,P020,2026-08-09,Neutropenia,Serious,Recovered,Under Review,
+AE018,P069,2026-08-28,Peripheral neuropathy,Non-serious,Recovered,Reported,
+AE019,P024,2026-09-06,Peripheral neuropathy,Non-serious,Recovering,Reported,2026-09-07
+AE020,P035,2025-01-07,Diarrhoea,Non-serious,Recovered,Reported,2025-01-16

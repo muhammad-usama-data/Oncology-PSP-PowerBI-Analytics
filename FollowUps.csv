@@ -1,0 +1,301 @@
+FollowUpID,PatientID,FollowUpDate,FollowUpMode,FollowUpStatus,AdherencePct,MissedDoses,SatisfactionScore
+F0001,P035,2024-04-22,Phone Call,Completed,54,3,3
+F0002,P084,2024-05-02,Phone Call,Rescheduled,,,
+F0003,P095,2024-05-08,WhatsApp,Rescheduled,,,
+F0004,P035,2024-05-21,WhatsApp,Completed,60,2,4
+F0005,P084,2024-06-07,Phone Call,Completed,84,2,3
+F0006,P095,2024-06-09,Phone Call,Completed,68,4,3
+F0007,P035,2024-06-20,Phone Call,Completed,67,4,3
+F0008,P084,2024-07-01,Phone Call,Completed,93,1,4
+F0009,P029,2024-07-07,Phone Call,Completed,60,4,2
+F0010,P095,2024-07-10,Phone Call,Completed,76,1,4
+F0011,P029,2024-08-09,Phone Call,Completed,72,3,2
+F0012,P098,2024-08-23,WhatsApp,Completed,84,1,5
+F0013,P100,2024-08-26,Phone Call,Completed,84,2,4
+F0014,P029,2024-09-05,Phone Call,Completed,72,2,4
+F0015,P050,2024-09-13,Phone Call,Completed,79,4,4
+F0016,P045,2024-09-16,Phone Call,Not Reached,,,
+F0017,P100,2024-09-26,In-Person,Completed,83,2,3
+F0018,P098,2024-09-28,Phone Call,Not Reached,,,
+F0019,P050,2024-10-11,Phone Call,Completed,84,0,3
+F0020,P045,2024-10-16,WhatsApp,Completed,78,3,3
+F0021,P085,2024-10-24,Phone Call,Completed,92,1,4
+F0022,P100,2024-10-28,Phone Call,Completed,86,1,3
+F0023,P041,2024-11-01,Phone Call,Completed,77,1,4
+F0024,P075,2024-11-04,WhatsApp,Completed,84,2,3
+F0025,P011,2024-11-08,Phone Call,Completed,76,1,5
+F0026,P050,2024-11-10,In-Person,Completed,79,-2,4
+F0027,P045,2024-11-14,Phone Call,Completed,79,1,5
+F0028,P085,2024-11-19,Phone Call,Completed,92,0,
+F0029,P075,2024-11-28,Phone Call,Not Reached,,,
+F0030,P060,2024-12-01,Phone Call,Completed,77,2,3
+F0031,P041,2024-12-02,WhatsApp,Completed,83,1,4
+F0032,P028,2024-12-09,Phone Call,Completed,100,0,5
+F0033,P011,2024-12-10,Phone Call,Completed,80,1,5
+F0034,P085,2024-12-25,Phone Call,Completed,95,0,4
+F0035,P080,2024-12-28,Phone Call,Completed,80,1,3
+F0036,P060,2024-12-30,In-Person,Completed,94,0,5
+F0037,P075,2025-01-02,Phone Call,Completed,98,0,5
+F0038,P011,2025-01-04,WhatsApp,Completed,73,1,4
+F0039,P041,2025-01-06,WhatsApp,Completed,78,0,4
+F0040,P028,2025-01-08,WhatsApp,Completed,96,0,5
+F0041,P052,2025-01-15,Phone Call,Completed,97,2,4
+F0042,P010,2025-01-21,Phone Call,Completed,68,1,4
+F0043,P080,2025-01-26,WhatsApp,Completed,75,3,5
+F0044,P008,2025-01-27,WhatsApp,Completed,90,1,4
+F0045,P060,2025-01-29,WhatsApp,Completed,100,1,3
+F0046,P031,2025-01-31,Phone Call,Completed,81,2,5
+F0047,P028,2025-02-05,Phone Call,Completed,95,0,5
+F0048,P086,2025-02-10,WhatsApp,Completed,86,1,4
+F0049,P052,2025-02-21,In-Person,Completed,96,1,4
+F0050,P080,2025-02-21,In-Person,Completed,72,2,
+F0051,P010,2025-02-22,Phone Call,Completed,88,1,4
+F0052,P071,2025-02-22,In-Person,Completed,87,1,4
+F0053,P008,2025-02-25,In-Person,Completed,94,1,5
+F0054,P064,2025-03-01,Phone Call,Completed,74,1,4
+F0055,P031,2025-03-04,Phone Call,Completed,79,3,4
+F0056,P037,2025-03-08,WhatsApp,Completed,100,1,4
+F0057,P086,2025-03-10,WhatsApp,Completed,81,2,4
+F0058,P092,2025-03-11,Phone Call,Completed,84,2,3
+F0059,P022,2025-03-13,Phone Call,Not Reached,,,
+F0060,P068,2025-03-17,WhatsApp,Not Reached,,,
+F0061,P052,2025-03-23,WhatsApp,Not Reached,,,
+F0062,P071,2025-03-23,Phone Call,Completed,71,3,5
+F0063,P031,2025-03-26,Phone Call,Completed,92,0,4
+F0064,P010,2025-03-27,Phone Call,Completed,77,4,2
+F0065,P008,2025-03-30,In-Person,Completed,83,1,5
+F0066,P017,2025-04-01,Phone Call,Completed,81%,2,3
+F0067,P064,2025-04-03,Phone Call,Rescheduled,,,
+F0068,P037,2025-04-05,Phone Call,Completed,87,1,5
+F0069,P020,2025-04-08,In-Person,Completed,89,1,5
+F0070,P092,2025-04-10,Phone Call,Completed,90,2,4
+F0071,P068,2025-04-13,WhatsApp,Completed,73,2,4
+F0072,P079,2025-04-15,In-Person,Completed,95,0,5
+F0073,P086,2025-04-15,Phone Call,Not Reached,,,
+F0074,P022,2025-04-17,WhatsApp,Completed,83,1,4
+F0075,P071,2025-04-20,Phone Call,Completed,85,0,3
+F0076,P064,2025-04-30,WhatsApp,Rescheduled,,,
+F0077,P017,2025-05-02,In-Person,Completed,91,0,4
+F0078,P020,2025-05-06,WhatsApp,Completed,97,0,4
+F0079,P037,2025-05-08,Phone Call,Completed,80,0,4
+F0080,P068,2025-05-12,Phone Call,Completed,83,2,5
+F0081,P044,2025-05-14,Phone Call,Completed,100,0,3
+F0082,P092,2025-05-15,WhatsApp,Completed,92,0,5
+F0083,P022,2025-05-17,In-Person,Completed,91,1,5
+F0084,P015,2025-05-18,Phone Call,Completed,90,1,4
+F0085,P079,2025-05-19,In-Person,Completed,81,2,3
+F0086,P017,2025-05-25,Phone Call,Completed,99,1,4
+F0087,P020,2025-06-02,WhatsApp,Completed,96,0,5
+F0088,P044,2025-06-14,Phone Call,Completed,90,0,4
+F0089,P074,2025-06-15,Phone Call,Completed,76,1,3
+F0090,P015,2025-06-17,Phone Call,Completed,94,2,4
+F0091,P079,2025-06-18,In-Person,Completed,89,0,4
+F0092,P042,2025-06-26,Phone Call,Completed,86,1,5
+F0093,P067,2025-06-27,Phone Call,Completed,74,2,3
+F0094,P019,2025-07-01,WhatsApp,Completed,77,2,4
+F0095,P083,2025-07-03,WhatsApp,Completed,95,0,5
+F0096,P027,2025-07-04,WhatsApp,Not Reached,,,
+F0097,P057,2025-07-08,Phone Call,Completed,69,1,3
+F0098,P044,2025-07-13,Phone Call,Completed,90,1,5
+F0099,P074,2025-07-15,Phone Call,Completed,78,1,4
+F0100,P015,2025-07-16,Phone Call,Completed,91,1,5
+F0101,P009,2025-07-17,In-Person,Completed,74,3,4
+F0102,P021,2025-07-20,In-Person,Completed,84,0,5
+F0103,P042,2025-07-27,Phone Call,Completed,76,3,2
+F0104,P019,2025-08-01,In-Person,Rescheduled,,,
+F0105,P061,2025-08-01,Phone Call,Completed,65,2,3
+F0106,P083,2025-08-01,Phone Call,Completed,98,0,4
+F0107,P094,2025-08-02,WhatsApp,Completed,88,1,4
+F0108,P027,2025-08-03,WhatsApp,Completed,80,3,5
+F0109,P067,2025-08-04,In-Person,Completed,76,3,3
+F0110,P076,2025-08-06,Phone Call,Not Reached,,,
+F0111,P012,2025-08-07,Phone Call,Completed,75,1,4
+F0112,P074,2025-08-09,Phone Call,Rescheduled,,,
+F0113,P065,2025-08-10,Phone Call,Completed,81,2,5
+F0114,P070,2025-08-10,Phone Call,Completed,73,3,5
+F0115,P089,2025-08-12,Phone Call,Completed,80,1,
+F0116,P018,2025-08-13,WhatsApp,Rescheduled,,,
+F0117,P057,2025-08-14,In-Person,Completed,78,1,5
+F0118,P016,2025-08-17,Phone Call,Completed,90,1,4
+F0119,P007,2025-08-18,WhatsApp,Completed,85,1,3
+F0120,P021,2025-08-21,WhatsApp,Completed,76,2,4
+F0121,P009,2025-08-24,WhatsApp,Not Reached,,,
+F0122,P072,2025-08-26,Phone Call,Not Reached,,,
+F0123,P067,2025-08-28,Phone Call,Completed,80,3,4
+F0124,P019,2025-08-30,Phone Call,Completed,86,1,4
+F0125,P049,2025-08-30,Phone Call,Completed,81,2,5
+F0126,P042,2025-08-31,Phone Call,Completed,88,0,4
+F0127,P061,2025-08-31,Phone Call,Completed,74,2,5
+F0128,P083,2025-08-31,Phone Call,Completed,87,1,4
+F0129,P030,2025-09-01,Phone Call,Completed,89,0,4
+F0130,P094,2025-09-01,Phone Call,Not Reached,,,
+F0131,P038,2025-09-02,WhatsApp,Completed,76,1,4
+F0132,P051,2025-09-04,WhatsApp,Completed,90,1,4
+F0054,P064,2025-03-01,Phone Call,Completed,74,1,4
+F0133,P055,2025-09-04,In-Person,Completed,95,0,4
+F0134,P076,2025-09-04,Phone Call,Completed,88,1,4
+F0135,P027,2025-09-05,Phone Call,Rescheduled,,,
+F0136,P070,2025-09-05,Phone Call,Completed,73,3,4
+F0137,P005,2025-09-06,Phone Call,Completed,100,1,5
+F0138,P057,2025-09-06,In-Person,Completed,78,2,3
+F0139,P012,2025-09-07,Phone Call,Completed,58,4,9
+F0140,P046,2025-09-07,Phone Call,Completed,87,2,4
+F0141,P077,2025-09-07,Phone Call,Completed,95,0,4
+F0142,P089,2025-09-08,Phone Call,Completed,85,2,5
+F0143,P007,2025-09-13,Phone Call,Completed,84,1,4
+F0144,P065,2025-09-13,Phone Call,Rescheduled,,,
+F0145,P003,2025-09-14,Phone Call,Completed,87,1,3
+F0146,P018,2025-09-16,In-Person,Completed,75,2,4
+F0147,P021,2025-09-18,WhatsApp,Not Reached,,,
+F0148,P009,2025-09-20,In-Person,Not Reached,,,
+F0149,P016,2025-09-20,Phone Call,Completed,79,0,4
+F0150,P072,2025-09-26,Phone Call,Completed,95,0,5
+F0151,P055,2025-09-28,Phone Call,Completed,94,0,5
+F0152,P051,2025-09-29,Phone Call,Completed,100,0,
+F0153,P076,2025-09-29,Phone Call,Completed,78,2,3
+F0154,P094,2025-09-29,In-Person,Completed,89,1,4
+F0155,P026,2025-10-01,Phone Call,Completed,89,0,5
+F0156,P030,2025-10-01,Phone Call,Rescheduled,,,
+F0157,P061,2025-10-01,Phone Call,Completed,72,3,3
+F0158,P005,2025-10-03,In-Person,Completed,100,1,3
+F0159,P033,2025-10-03,WhatsApp,Completed,140,0,4
+F0160,P038,2025-10-05,Phone Call,Completed,74,2,3
+F0161,P049,2025-10-05,WhatsApp,Completed,84,1,5
+F0162,P082,2025-10-06,Phone Call,Completed,92,0,4
+F0163,P091,2025-10-08,Phone Call,Rescheduled,,,
+F0164,P046,2025-10-09,WhatsApp,Completed,87,2,3
+F0165,P007,2025-10-10,Phone Call,Completed,91,0,4
+F0138,P057,2025-09-06,In-Person,Completed,78,2,3
+F0166,P012,2025-10-10,Phone Call,Completed,66,3,3
+F0167,P065,2025-10-10,Phone Call,Completed,81,2,4
+F0168,P070,2025-10-10,Phone Call,Completed,84,2,3
+F0169,P018,2025-10-12,WhatsApp,Not Reached,,,
+F0170,P089,2025-10-12,Phone Call,Completed,67,2,4
+F0171,P077,2025-10-13,WhatsApp,Completed,98,0,4
+F0172,P003,2025-10-16,WhatsApp,Completed,78,3,4
+F0173,P016,2025-10-20,Phone Call,Completed,85,1,4
+F0174,P026,2025-10-27,Phone Call,Completed,76,2,3
+F0175,P049,2025-10-29,Phone Call,Completed,78,3,4
+F0176,P072,2025-10-31,In-Person,Completed,85,1,3
+F0177,P038,2025-11-01,In-Person,Completed,76,2,5
+F0178,P006,2025-11-02,WhatsApp,Rescheduled,,,
+F0179,P030,2025-11-02,Phone Call,Completed,89,0,2
+F0180,P051,2025-11-02,Phone Call,Completed,98,0,4
+F0181,P055,2025-11-02,Phone Call,Completed,95,1,4
+F0182,P046,2025-11-04,Phone Call,Completed,94,1,5
+F0183,P005,2025-11-05,WhatsApp,Completed,100,1,5
+F0184,P091,2025-11-06,Phone Call,Completed,81,1,4
+F0185,P033,2025-11-08,WhatsApp,Completed,88,1,4
+F0186,P077,2025-11-10,Phone Call,Completed,83,2,4
+F0187,P043,2025-11-12,Phone Call,Completed,80,2,4
+F0188,P082,2025-11-13,Phone Call,Completed,87,1,3
+F0189,P062,2025-11-15,Phone Call,Not Reached,,,
+F0190,P003,2025-11-19,In-Person,Completed,93,1,3
+F0191,P047,2025-11-20,WhatsApp,Rescheduled,,,
+F0192,P087,2025-11-23,WhatsApp,Completed,77,1,4
+F0193,P039,2025-11-24,Phone Call,Completed,81,2,4
+F0194,P056,2025-11-24,Phone Call,Completed,73,2,4
+F0195,P026,2025-12-01,Phone Call,Rescheduled,,,
+F0196,P033,2025-12-01,Phone Call,Rescheduled,,,
+F0197,P058,2025-12-02,WhatsApp,Completed,92,0,4
+F0198,P002,2025-12-03,Phone Call,Completed,91,0,5
+F0199,P014,2025-12-04,Phone Call,Completed,78,0,3
+F0200,P023,2025-12-04,WhatsApp,Completed,100,0,5
+F0201,P091,2025-12-05,Phone Call,Completed,96,1,4
+F0202,P006,2025-12-06,Phone Call,Completed,93,1,5
+F0203,P082,2025-12-12,In-Person,Not Reached,,,
+F0204,P062,2025-12-14,WhatsApp,Completed,82,2,3
+F0205,P043,2025-12-17,Phone Call,Completed,75,2,4
+F0206,P039,2025-12-18,Phone Call,Completed,90,1,3
+F0207,P056,2025-12-19,Phone Call,Completed,79,4,3
+F0208,P047,2025-12-22,In-Person,Completed,74,3,3
+F0209,P087,2025-12-23,Phone Call,Completed,71,3,4
+F0210,P034,2025-12-24,In-Person,Completed,90,1,3
+F0211,P025,2025-12-30,Phone Call,Completed,79,2,4
+F0212,P023,2026-01-01,Phone Call,Completed,89,3,3
+F0213,P058,2026-01-01,WhatsApp,Completed,96,0,5
+F0214,P002,2026-01-03,In-Person,Rescheduled,,,
+F0215,P014,2026-01-04,In-Person,Completed,78,2,5
+F0216,P006,2026-01-06,Phone Call,Completed,90,0,4
+F0217,P043,2026-01-10,Phone Call,Completed,72,3,4
+F0218,P096,2026-01-11,In-Person,Completed,81,2,5
+F0219,P066,2026-01-15,Phone Call,Completed,74,2,4
+F0220,P062,2026-01-16,Phone Call,Completed,84,2,5
+F0221,P001,2026-01-17,Phone Call,Completed,100,0,4
+F0222,P047,2026-01-17,WhatsApp,Completed,89,1,4
+F0223,P056,2026-01-19,WhatsApp,Completed,74,3,3
+F0224,P087,2026-01-19,Phone Call,Completed,70,0,4
+F0225,P025,2026-01-22,WhatsApp,Rescheduled,,,
+F0226,P032,2026-01-22,Phone Call,Rescheduled,,,
+F0227,P039,2026-01-22,Phone Call,Completed,100,0,5
+F0228,P053,2026-01-23,In-Person,Rescheduled,,,
+F0229,P002,2026-01-27,WhatsApp,Completed,74,1,4
+F0230,P013,2026-01-28,WhatsApp,Completed,80,3,3
+F0231,P034,2026-01-28,Phone Call,Completed,92,2,3
+F0232,P058,2026-01-30,Phone Call,Rescheduled,,,
+F0233,P014,2026-02-01,Phone Call,Completed,84,1,3
+F0234,P078,2026-02-01,WhatsApp,Completed,100,0,5
+F0235,P023,2026-02-02,WhatsApp,Completed,95,1,4
+F0236,P066,2026-02-08,WhatsApp,Completed,76,1,3
+F0237,P096,2026-02-11,Phone Call,Completed,89,1,4
+F0238,P001,2026-02-14,WhatsApp,Completed,96,0,5
+F0239,P048,2026-02-14,Phone Call,Completed,89,0,4
+F0240,P053,2026-02-18,WhatsApp,Completed,84,0,4
+F0241,P069,2026-02-22,WhatsApp,Rescheduled,,,
+F0242,P025,2026-02-25,WhatsApp,Completed,79,1,4
+F0243,P032,2026-02-26,WhatsApp,Completed,80,3,4
+F0244,P013,2026-02-27,WhatsApp,Not Reached,,,
+F0245,P063,2026-02-28,WhatsApp,Completed,99,0,5
+F0246,P004,2026-03-05,Phone Call,Completed,84,1,3
+F0247,P090,2026-03-05,WhatsApp,Completed,75,2,5
+F0248,P040,2026-03-06,Phone Call,Completed,75,3,4
+F0249,P078,2026-03-07,Phone Call,Completed,100,0,5
+F0250,P099,2026-03-08,In-Person,Completed,94,0,5
+F0251,P066,2026-03-12,Phone Call,Completed,90,1,4
+F0252,P096,2026-03-14,Phone Call,Completed,86,1,4
+F0253,P036,2026-03-19,WhatsApp,Completed,81,2,4
+F0254,P001,2026-03-20,Phone Call,Completed,100%,0,3
+F0255,P069,2026-03-21,Phone Call,Completed,80,2,2
+F0256,P048,2026-03-22,In-Person,Completed,94,0,5
+F0257,P032,2026-03-25,WhatsApp,Completed,95,0,3
+F0258,P053,2026-03-26,WhatsApp,Completed,96,1,4
+F0259,P059,2026-03-28,Phone Call,Completed,93,0,5
+F0260,P090,2026-03-30,WhatsApp,Completed,88,1,4
+F0261,P063,2026-03-31,Phone Call,Not Reached,,,
+F0183,P005,2025-11-05,WhatsApp,Completed,100,1,5
+F0262,P078,2026-04-01,WhatsApp,Rescheduled,,,
+F0263,P040,2026-04-02,In-Person,Completed,80,2,3
+F0264,P013,2026-04-03,Phone Call,Completed,79,1,3
+F0265,P099,2026-04-04,Phone Call,Completed,85,1,4
+F0266,P054,2026-04-08,In-Person,Completed,88,1,4
+F0267,P004,2026-04-09,Phone Call,Completed,82,2,3
+F0268,P048,2026-04-16,In-Person,Completed,92,1,3
+F0269,P036,2026-04-21,Phone Call,Completed,97,2,3
+F0270,P069,2026-04-24,Phone Call,Completed,84,0,5
+F0271,P059,2026-04-29,Phone Call,Completed,90,0,4
+F0272,P097,2026-05-01,WhatsApp,Completed,92,0,5
+F0273,P090,2026-05-02,Phone Call,Completed,83,1,5
+F0274,P040,2026-05-03,Phone Call,Completed,91,0,4
+F0275,P063,2026-05-04,Phone Call,Completed,100,0,5
+F0276,P004,2026-05-05,In-Person,Completed,87,2,3
+F0277,P099,2026-05-08,Phone Call,Completed,84,2,5
+F0278,P054,2026-05-11,Phone Call,Completed,82,1,4
+F0279,P088,2026-05-14,Phone Call,Completed,72,2,3
+F0280,P093,2026-05-16,WhatsApp,Completed,71,4,4
+F0281,P036,2026-05-23,Phone Call,Completed,83,1,5
+F0282,P097,2026-05-26,Phone Call,Not Reached,,,
+F0283,P059,2026-05-28,WhatsApp,Not Reached,,,
+F0284,P054,2026-06-07,In-Person,Completed,100,0,4
+F0285,P088,2026-06-11,Phone Call,Rescheduled,,,
+F0286,P081,2026-06-13,Phone Call,Completed,76,1,5
+F0287,P093,2026-06-17,Phone Call,Completed,76,0,4
+F0288,P024,2026-06-18,Phone Call,Completed,86,1,3
+F0289,P073,2026-06-21,Phone Call,Completed,85,2,3
+F0290,P097,2026-06-26,In-Person,Completed,87,0,4
+F0291,P081,2026-07-13,Phone Call,Completed,86,1,4
+F0292,P093,2026-07-20,Phone Call,Completed,78,3,4
+F0293,P024,2026-07-24,Phone Call,Completed,77,1,5
+F0294,P073,2026-07-25,Phone Call,Completed,85,1,4
+F0295,P081,2026-08-06,Phone Call,Completed,80,2,2
+F0296,P024,2026-08-18,WhatsApp,Completed,94,0,5
+F0297,P073,2026-08-27,WhatsApp,Not Reached,,,

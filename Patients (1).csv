@@ -1,0 +1,101 @@
+PatientID,PatientName,Gender,DateOfBirth,Diagnosis,City,HospitalID,EnrolmentDate
+P001,Lubna Butt,Female,1988-04-22,Breast Cancer,Quetta,H09,2025-12-20
+P002,Hina Iqbal,Female,1976-07-28,Colorectal Cancer,Rawalpindi,H01,2025-10-31
+P003,Asif Malik,Male,1971-10-06,Lymphoma,Rawalpindi,H06,2025-08-18
+P004,Amna Akhtar,Female,1965-07-20,Lymphoma,Rawalpindi,H01,2026-02-07
+P005,Zainab Yousaf,F,1963-06-18,Lymphoma,Multan,H09,2025-08-07
+P006,Iqra Ansari,Female,1969-02-27,Colorectal Cancer,Islamabad,H09,2025-10-04
+P007,Saima Rehman,,1962-03-03,Breast Cancer,Faisalabad,H07,2025-07-15
+P008,Waqar Abbasi,Male,1977-01-21,Colorectal Cancer,Multan,H09,2024-12-29
+P009,Bilal Hussain,Male,1976-02-22,Lymphoma,Islamabad,H03,2025-06-21
+P010,Faisal Raza,Male,1996-06-04,Lymphoma,Multan,H09,2024-12-24
+P011,Samina Malik,F,1956-06-11,Breast Cancer,Islamabad,H05,2024-10-09
+P012,Shazia Ansari,Female,1967-05-21,Breast Cancer,LAHORE,H06,2025-07-12
+P013,Iqra Yousaf,Female,1979-01-07,Breast Cancer,Karachi,H03,2026-01-02
+P014,Tahira Khan,Female,1971-03-30,Breast Cancer,Lahore,H01,2025-11-01
+P015,Imran Yousaf,Male,1984-03-21,Lung Cancer,Islamabad,H05,2025-04-15
+P016,Bushra Iqbal,Female,1979-08-17,Breast Cancer,Peshawar,H08,2025-07-18
+P017,Iqra Sheikh,Female,1991-08-25,Breast Cancer,Rawalpindi,H06,2025-02-28
+P018,Zainab Hussain,F,1975-05-30,Breast Cancer,Karachi,H04,2025-07-17
+P019,Naveed Khan,Male,1965-07-09,Lymphoma,Peshawar,H10,2025-06-02
+P020,Shazia Rehman,Female,1990-05-29,Lymphoma,Lahore,H02,2025-03-06
+P021,Imran Butt,Male,1967-01-04,Lung Cancer,Faisalabad,H07,2025-06-20
+P022,Farah Hussain,Female,1968-02-22,Breast Cancer,Multan,H09,2025-02-14
+P023,Hina Siddiqui,Female,1993-05-16,Lung Cancer,Lahore,H01,2025-11-03
+P024,Rashid Bhatti,Male,1983-04-02,Colorectal Cancer,Lahore,H02,2026-05-22
+P025,TARIQ HUSSAIN,Male,1972-12-20,Colorectal Cancer,Multan,H09,2025-11-27
+P026,Shazia Khan,Female,1970-07-19,Breast Cancer,Islamabad,H05,2025-08-31
+P027,Saima Khan,Female,1983-07-14,Breast Cancer,Karachi,H04,2025-06-07
+P028,Samina Rehman,Female,1956-11-14,Breast Cancer,Karachi,H03,2024-11-08
+P029,Imran Yousaf,Male,1956-02-10,Lung Cancer,Lahore,H01,2024-06-07
+P030,Nadia Ansari,Female,1986-05-27,Colorectal Cancer,Lahore,H01,2025-08-02
+P031,Naveed Rehman,Male,1979-04-06,Lymphoma,Peshawar,H08,2024-12-30
+P032,Iqra Ansari,Female,,Breast Cancer,Quetta,H09,2025-12-27
+P033,Hina Khan,Female,1960-01-02,Lung Cancer,,H05,2025-09-06
+P034,Uzma Mirza,Female,1973-01-06,Breast Cancer,islamabad,H05,2025-11-28
+P035,Iqra Javed,female,1978-08-27,Breast Cancer,Lahore,H02,2024-03-19
+P036,Khadija Mirza,F,1978-06-14,Breast Cancer,Islamabad,H05,2026-02-20
+P037,Saima Qureshi,female,1963-01-01,Lymphoma,Islamabad,H05,2025-02-08
+P038,Saad Ansari,,1964-02-21,Colorectal Cancer,Multan,H09,2025-08-07
+P039,Farah Ansari,Female,1965-01-23,Breast Cancer,Faisalabad,H07,2025-10-22
+P040,Rashid Sheikh,Male,1960-08-27,Colorectal Cancer,Lahore,H02,2026-02-05
+P041,Shazia Chaudhry,Female,1972-06-06,Lung Cancer,Karachi,H04,2024-10-05
+P042,Hamza Raza,Male,1949-06-06,Lymphoma,Karachi,H03,2025-05-29
+P043,Fatima Rehman,Female,1960-08-04,Breast Cancer,Islamabad,H05,2025-10-15
+P044,Rukhsana Akhtar,Female,1966-04-13,Breast Cancer,Rawalpindi,H08,2025-04-17
+P045,AMNA ABBASI,Female,1974-08-24,Breast Cancer,Karachi,H03,2024-08-16
+P046,Khadija Hussain,Female,1982-10-23,Lymphoma,Lahore,H01,2025-08-09
+P047,Khadija Rehman,Female,1975-12-27,Breast Cancer,Rawalpindi,H07,2025-10-20
+P048,Fatima Chaudhry,Female,,Lymphoma,Multan,H01,2026-01-18
+P049,Zainab Malik,F,1991-12-07,Breast Cancer,Rawalpindi,H06,2025-08-02
+P050,Zahid Mirza,Male,1905-03-12,Lymphoma,Rawalpindi,H06,2024-08-14
+P051,Kamran Khan,Male,1984-03-26,Colorectal Cancer,,H04,2025-08-01
+P052,Saad Javed,Male,1972-02-26,Colorectal Cancer,Islamabad,H05,2024-12-19
+P053,Shazia Ahmed,Female,1964-08-24,Breast Cancer,multan,H07,2025-12-23
+P054,Khadija Chaudhry,F,1974-03-10,Breast Cancer,Karachi,H03,2026-03-11
+P055,Zainab Chaudhry,Female,1974-02-15,Lymphoma,Multan,H09,2025-08-01
+P056,Lubna Qureshi,Female,1970-07-27,Breast Cancer,Peshawar,H08,2025-10-23
+P057,Khadija Rehman,Female,1960-01-22,Lymphoma,Quetta,H10,2025-06-12
+P058,Maryam Butt,Female,1983-11-24,Breast Cancer,Faisalabad,H07,2025-10-31
+P059,Zainab Khan,Female,1976-09-05,Colorectal Cancer,Islamabad,H05,2026-02-26
+P060,Tahira Ansari,Female,1976-07-26,Lung Cancer,Quetta,H10,2024-11-04
+P061,Haroon Mirza,Male,1981-10-20,Lung Cancer,Islamabad,H07,2025-07-05
+P062,Lubna Iqbal,Female,1954-01-11,Breast Cancer,ISLAMABAD,H05,2025-10-14
+P063,Ayesha Butt,Female,1968-01-12,Breast Cancer,Karachi,H03,2026-02-02
+P064,NADIA MIRZA,Female,1969-10-18,Breast Cancer,Rawalpindi,H06,2025-02-03
+P065,Khadija Iqbal,F,1979-11-13,Breast Cancer,Lahore,H02,2025-07-14
+P066,Qasim Siddiqui,Male,1961-03-06,Lung Cancer,Peshawar,H08,2025-12-12
+P067,Maryam Yousaf,Female,1966-11-16,Breast Cancer,lahore,H01,2025-06-01
+P068,Khadija Abbasi,Female,1967-02-11,Breast Cancer,karachi,H03,2025-02-14
+P069,Haroon Ahmed,Male,1996-10-23,Lung Cancer,Rawalpindi,H03,2026-01-21
+P070,Maryam Khan,Female,1973-03-14,Breast Cancer,Karachi,H03,2025-07-11
+P071,Shazia Rehman,Female,1974-01-19,Breast Cancer,Peshawar ,H02,2025-01-22
+P072,Khadija Sheikh,Female,1968-02-23,Breast Cancer,Lahore,H02,2025-07-30
+P073,Ahmed Baig,Male,1984-02-02,Colorectal Cancer,LAHORE,H01,2026-05-26
+P074,Fatima Rehman,Female,1975-06-05,Colorectal Cancer,Lahore,H01,2025-05-15
+P075,Farah Yousaf,Female,1950-12-22,Breast Cancer,Lahore,H01,2024-10-03
+P076,Ayesha Mirza,Female,1989-05-24,Breast Cancer,Multan,H09,2025-07-03
+P077,Zahid Butt,Male,1955-08-20,Colorectal Cancer,Lahore,H01,2025-08-12
+P078,Shazia Butt,Female,1950-07-09,Colorectal Cancer,Rawalpindi,H01,2026-01-03
+P079,Omer Iqbal,MALE,1972-05-22,Colorectal Cancer,Faisalabad,H07,2025-03-18
+P080,Uzma Siddiqui,Female,1963-10-22,Lymphoma,Peshawar,H08,2024-11-26
+P081,Rukhsana Rehman,Female,1974-10-04,Colorectal Cancer,Karachi,H03,2026-05-10
+P082,Maryam Hussain,Female,,Breast Cancer,Lahore,H02,2025-09-10
+P083,Nadeem Abbasi,Male,1954-09-24,Colorectal Cancer,Karachi,H03,2025-06-06
+P084,Saad Baig,Male,1970-07-23,Lymphoma,Faisalabad,H07,2024-04-04
+P085,Haroon Yousaf,Male,1967-03-20,Lymphoma,Faisalabad,H03,2024-09-22
+P086,Ayesha Rehman,Female,1957-11-28,Lung Cancer,Lahore,H01,2025-01-13
+P087,Ayesha Butt,Female,1981-12-07,Lung Cancer,Multan,H09,2025-10-21
+P088,Farah Baig,Female,1969-03-10,Breast Cancer,Lahore,H02,2026-04-15
+P089,Zainab Malik,F,1970-12-31,Breast Cancer,Karachi,H04,2025-07-13
+P090,Nadia Akhtar,Female,1997-04-05,Breast Cancer,Faisalabad,H01,2026-01-31
+P091,Saad Malik,Male,1977-11-11,Colorectal Cancer,Karachi,H03,2025-09-09
+P092,Asif Akhtar,Male,1976-07-03,Lymphoma,Lahore,H02,2025-02-11
+P093,Shazia Iqbal,Female,1979-12-25,Breast Cancer,Multan,H02,2026-04-18
+P094,Hina Mirza,F,1950-01-13,Breast Cancer,Karachi,H03,2025-07-05
+P095,Waqar Yousaf,Male,1980-12-11,Lymphoma,Karachi,H03,2024-04-07
+P096,Qasim Rehman,Male,1956-05-23,Lung Cancer,Islamabad,H10,2025-12-13
+P097,Farah Siddiqui,Female,1958-02-24,Breast Cancer,Lahore,H02,2026-03-31
+P098,Hina Akhtar,Female,1973-06-18,Colorectal Cancer,Lahore,H02,2024-07-28
+P099,AMNA REHMAN,Female,1979-03-06,Colorectal Cancer,Faisalabad,H07,2026-02-03
+P100,Samina Sheikh,F,1963-10-27,Lung Cancer,Islamabad,H05,2024-07-31

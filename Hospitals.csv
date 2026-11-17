@@ -1,0 +1,11 @@
+HospitalID,HospitalName,City,Province
+H01,Noor Cancer Institute,Lahore,Punjab
+H02,Crescent Oncology Centre,Lahore,Punjab
+H03,Indus Cancer Hospital,Karachi,Sindh
+H04,Harbour Medical Oncology Unit,Karachi,Sindh
+H05,Capital Cancer Centre,Islamabad,Islamabad Capital Territory
+H06,Potohar Oncology Clinic,Rawalpindi,Punjab
+H07,Chenab Cancer Care,Faisalabad,Punjab
+H08,Khyber Oncology Institute,Peshawar,KPK
+H09,Multan Regional Cancer Centre,Multan,Punjab
+H10,Bolan Oncology Unit,Quetta,Balochistan
